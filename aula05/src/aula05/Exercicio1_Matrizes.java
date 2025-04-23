@@ -28,7 +28,7 @@ public class Exercicio1_Matrizes {
         
         System.out.println("\nMédias dos alunos:");
         for (int m = 0; m < 10; m++) {
-            System.out.printf("Aluno %d: %.1f\n", m + 1, medias[m]);
+            System.out.printf("Aluno %d: %.1f\n",m + 1, medias[m]);
         }
         
         leia.close();
